@@ -47,8 +47,9 @@
     display: flex;
     justify-content: space-between;
     background-color: #FFFFFF;
-    padding: 80px 30px 50px;
-    margin-top: -70px;
+    padding: 70px 30px 50px;
+    margin-top: -60px;
+    line-height: 1.5rem;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
 }
@@ -56,7 +57,7 @@
 .cartao-pokemon .cartao-informacoes h3 {
     font-size: 20px;
     margin-bottom: 15px;
-    border-bottom: 1px solid #6B727A;
+    border-bottom: 3px solid #4b0744;
 }
 
 .cartao-pokemon .cartao-informacoes .status, .cartao-pokemon .cartao-informacoes .habilidades {

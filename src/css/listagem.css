@@ -7,7 +7,7 @@
     align-items: center;
     justify-content: space-around;
     margin-bottom: 10px;
-    background-color: #6B727A;
+    background-color: #0c3d75;
     color: #FFFFFF;
     padding: 0 5px;
     cursor: pointer;
@@ -19,7 +19,7 @@
 }
 
 .listagem .pokemon:hover {
-    transform: scale(1.08);
+    transform: scale(1.10);
 }
 
 .listagem .pokemon img {
@@ -32,5 +32,5 @@
 }
 
 .listagem .pokemon.ativo {
-    background-color: #FA6668;
+    background-color: #4b0744;
 }
