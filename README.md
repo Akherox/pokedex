@@ -7,5 +7,5 @@ Pokédex desenvolvida usando HTML, CSS e JavaScript. Projeto construído durante
 
 ### Links
 
-- Code URL: [GitHub](https://github.com/Akherox/demon-slayer-slider)
+- Code URL: [GitHub](https://github.com/Akherox/pokedex)
 - Live Site URL: [GitHub Pages](https://akherox.github.io/pokedex/)
